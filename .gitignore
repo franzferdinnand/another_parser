@@ -1,3 +1,8 @@
+test.py
+testing_dag.py
+my_dag.py
+.DS_Store
+.idea/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
